@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Resilience Magazine]]></title>
         <description><![CDATA[Resilience Magazine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/resilience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 01:05:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 01:05:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/resilience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taxemes - Decentralized #basicincome through natural selection]]></title>
+            <description><![CDATA[<article><h1>Taxemes - Decentralized #basicincome through natural selection</h1><p>Transcript: Resilience uses autonomous, non-coercive, self-organizing tax-collectors called taxemes. Taxemes replicate through free market mechanisms, each transaction pays forward the value donation of the other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82b9a5f8dc63e92bad27490ca4b9adcb457b52b8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QCpqFbA8wLc</link>
+            <guid isPermaLink="false">d9cff1d1-8e4c-401a-a918-68dac3634277</guid>
+            <pubDate>Sun, 06 Mar 2016 01:05:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dividend Network]]></title>
-            <description><![CDATA[<article><h1>Dividend Network</h1><p>Source: http://resilience.world Transcript: Dividend pathways will grow organically and connect each and everyone to a stream of income. Like capillaries in a human body. It's up to you to seek out decentralised autonomous corporations that increase your dividend yield.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Dividend Network</h1><p>Source: http://resilience.world Transcript: Dividend pathways will grow organically and connect each and everyone to a stream of income. Like capillaries in a human body. It's up to you to seek out decentralised autonomous corporations that increase your dividend yield.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/116d92be13d7d9fa2cbba6f8cffce0938a0f6074.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?time_continue=3&amp;v=YHKIeR3ylAQ</link>
             <guid isPermaLink="false">1a476494-1e3f-4dbe-83ff-3ebbe82cf0a2</guid>
             <pubDate>Sun, 06 Mar 2016 01:03:21 GMT</pubDate>
