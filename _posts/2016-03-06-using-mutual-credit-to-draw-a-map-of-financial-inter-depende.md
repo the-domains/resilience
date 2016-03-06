@@ -7,8 +7,8 @@ inLanguage: ca
 starred: false
 keywords: []
 description: "Mutual credit systems, like Ryan Fugger's Ripple (2003), is an economic protocol that enables person-to-person trade at ..."
-datePublished: '2016-03-06T02:34:49.627Z'
-dateModified: '2016-03-06T02:34:31.590Z'
+datePublished: '2016-03-06T02:37:59.404Z'
+dateModified: '2016-03-06T02:37:58.842Z'
 author: []
 related: []
 app_links:
