@@ -4,8 +4,15 @@
         <description><![CDATA[Resilience Magazine]]></description>
         <link>https://thegrid.ai/resilience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 03:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 03:58:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resilience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[resilience press]]></title>
+            <description><![CDATA[<article><h1>resilience press</h1><p>The Resilience wealth sharing protocol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b6f7cf39f04d9e743262ac68769c2d42d15dd69.png"></article>]]></description>
+            <link>https://resilience.press/</link>
+            <guid isPermaLink="false">65fb19e1-1be8-4ed2-8edd-feed987d38b7</guid>
+            <pubDate>Sun, 06 Mar 2016 03:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Basicincome.co Live Network]]></title>
             <description><![CDATA[<article><h1>Basicincome&period;co Live Network</h1></article>]]></description>
