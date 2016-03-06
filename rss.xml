@@ -4,8 +4,15 @@
         <description><![CDATA[Resilience Magazine]]></description>
         <link>https://thegrid.ai/resilience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 10:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 11:11:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resilience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wealth sharing system based on growth patterns in mutual currency networks.]]></title>
+            <description><![CDATA[<h1>Wealth sharing system based on growth patterns in mutual currency networks.</h1>]]></description>
+            <link>https://thegrid.ai/resilience/wealth-sharing-system-based-on-growth-patterns-in-mutual-cur/index.html</link>
+            <guid isPermaLink="false">2915f1cd-938d-4251-b80a-0f2a6d579135</guid>
+            <pubDate>Sun, 06 Mar 2016 11:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using P2P value maps and universal darwinism for a crypto basic income system]]></title>
             <description><![CDATA[<article><h1>Using P2P value maps and universal darwinism for a crypto basic income system</h1><p>Back in the early 2000s, Ryan Fugger invented something that will come to change the future of economics. He invented Ripple, a P2P credit clearing system. Some argue that P2P credit is unstable and prone to inflation, and I second that, and I believe Ripple should be combined with some form of stable index.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c52acab3bcff5e1c5321c400d0bda2076b9924a3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=QCpqFbA8wLc</link>
             <guid isPermaLink="false">d9cff1d1-8e4c-401a-a918-68dac3634277</guid>
             <pubDate>Sun, 06 Mar 2016 01:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dividend Network]]></title>
-            <description><![CDATA[<article><h1>Dividend Network</h1><p>Source: http://resilience.world Transcript: Dividend pathways will grow organically and connect each and everyone to a stream of income. Like capillaries in a human body. It's up to you to seek out decentralised autonomous corporations that increase your dividend yield.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/116d92be13d7d9fa2cbba6f8cffce0938a0f6074.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?time_continue=3&amp;v=YHKIeR3ylAQ</link>
-            <guid isPermaLink="false">1a476494-1e3f-4dbe-83ff-3ebbe82cf0a2</guid>
-            <pubDate>Sun, 06 Mar 2016 01:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
