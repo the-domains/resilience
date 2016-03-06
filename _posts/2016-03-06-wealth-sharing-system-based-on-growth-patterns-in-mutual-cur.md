@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T11:15:52.724Z'
-dateModified: '2016-03-06T11:14:18.912Z'
-title: Wealth sharing system based on growth patterns in mutual currency networks.
+datePublished: '2016-03-06T11:18:12.118Z'
+dateModified: '2016-03-06T11:17:18.953Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-06-wealth-sharing-system-based-on-growth-patterns-in-mutual-cur.md
 published: true
