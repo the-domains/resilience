@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-  domain: resilience.press
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://resilience.press/'
+inLanguage: en
+starred: false
 keywords:
   - resilience
   - incentives
@@ -18,7 +17,10 @@ keywords:
   - taxemes
   - nygren
 description: The Resilience wealth sharing protocol
-inLanguage: en
+datePublished: '2016-03-06T04:00:03.894Z'
+dateModified: '2016-03-06T03:59:56.357Z'
+author: []
+related: []
 app_links:
   - type: android
     namespace: ai
@@ -44,17 +46,17 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-isBasedOnUrl: 'https://resilience.press/'
 title: resilience press
-datePublished: '2016-03-06T03:58:01.145Z'
-dateModified: '2016-03-06T03:00:09.120Z'
 sourcePath: _posts/2016-03-06-resilience-press.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Medium
+  domain: resilience.press
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>resilience press</h1><p>The Resilience wealth sharing protocol</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*m5eIfQL9mCPSr0cDlgy_Kw.png" /></article>
+<article style=""><h1>resilience press</h1><p>The Resilience wealth sharing protocol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b6f7cf39f04d9e743262ac68769c2d42d15dd69.png" /></article>
