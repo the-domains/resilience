@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Resilience Magazine]]></title>
+        <description><![CDATA[Resilience Magazine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 01:05:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dividend Network]]></title>
+            <description><![CDATA[<article><h1>Dividend Network</h1><p>Source: http://resilience.world Transcript: Dividend pathways will grow organically and connect each and everyone to a stream of income. Like capillaries in a human body. It's up to you to seek out decentralised autonomous corporations that increase your dividend yield.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?time_continue=3&amp;v=YHKIeR3ylAQ</link>
+            <guid isPermaLink="false">1a476494-1e3f-4dbe-83ff-3ebbe82cf0a2</guid>
+            <pubDate>Sun, 06 Mar 2016 01:03:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
