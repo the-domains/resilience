@@ -4,7 +4,7 @@
         <description><![CDATA[Resilience Magazine]]></description>
         <link>https://thegrid.ai/resilience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 11:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 11:53:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resilience/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dividend Pathways [2015]]]></title>
@@ -41,11 +41,11 @@
             <pubDate>Sun, 06 Mar 2016 04:22:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Basicincome.co Live Network]]></title>
-            <description><![CDATA[<article><h1>Basicincome&period;co Live Network</h1></article>]]></description>
+            <title><![CDATA[Prototype Live Network]]></title>
+            <description><![CDATA[<article><h1>Prototype Live Network</h1><p>Live prototype of swarm-redistribution, developed in 2014</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/614a31c51d5528e7610009e9dc95293b10c1f39e.png"></article>]]></description>
             <link>http://graph.basicincome.co/#r46XJq7UJmoPno2cURDRs8bB9crRLJgpcY</link>
             <guid isPermaLink="false">ee06326c-adc2-412c-b334-edc0ba03c37b</guid>
-            <pubDate>Sun, 06 Mar 2016 03:51:16 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 11:53:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A layer-by-layer explanation of the Resilience protocol - resilience press]]></title>
