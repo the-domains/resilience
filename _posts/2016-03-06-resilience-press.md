@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://resilience.press/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - taxemes
   - nygren
 description: The Resilience wealth sharing protocol
-datePublished: '2016-03-06T04:15:38.277Z'
-dateModified: '2016-03-06T04:14:48.786Z'
+datePublished: '2016-03-06T04:20:21.529Z'
+dateModified: '2016-03-06T04:19:34.297Z'
 author: []
 related: []
 app_links:
@@ -54,7 +55,6 @@ publisher:
   domain: resilience.press
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-url: resilience-press/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
