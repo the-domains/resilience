@@ -17,8 +17,8 @@ keywords:
   - p2p-technology
   - nygren
 description: Mutual currency systems enable person-to-person trade that scales.
-datePublished: '2016-03-06T02:22:38.322Z'
-dateModified: '2016-03-06T02:22:33.988Z'
+datePublished: '2016-03-06T02:45:57.960Z'
+dateModified: '2016-03-06T02:45:53.322Z'
 author: []
 related: []
 app_links:
