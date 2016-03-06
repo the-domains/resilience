@@ -16,9 +16,9 @@ keywords:
   - person-to-person
   - p2p-technology
   - nygren
-description: ''
-datePublished: '2016-03-06T02:50:44.218Z'
-dateModified: '2016-03-06T02:50:42.154Z'
+description: Wealth sharing system based on growth patterns in mutual currency networks.
+datePublished: '2016-03-06T02:52:00.675Z'
+dateModified: '2016-03-06T02:51:51.968Z'
 author: []
 related: []
 app_links:
@@ -59,4 +59,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>A layer-by-layer explanation of the Resilience protocol</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0736b10f18bb955159a57bf50febf2636f3da4f0.png" /></article>
+<article style=""><h1>A layer-by-layer explanation of the Resilience protocol</h1><p>Wealth sharing system based on growth patterns in mutual currency networks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0736b10f18bb955159a57bf50febf2636f3da4f0.png" /></article>
