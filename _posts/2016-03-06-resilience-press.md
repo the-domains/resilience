@@ -16,8 +16,8 @@ keywords:
   - taxemes
   - nygren
 description: The Resilience wealth sharing protocol
-datePublished: '2016-03-06T04:14:38.759Z'
-dateModified: '2016-03-06T04:14:34.097Z'
+datePublished: '2016-03-06T04:15:38.277Z'
+dateModified: '2016-03-06T04:14:48.786Z'
 author: []
 related: []
 app_links:
