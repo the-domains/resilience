@@ -17,8 +17,8 @@ keywords:
   - debt-based
   - belief-systems
 description: P2P growth maps (bitnation.co) show financial inter-dependence.
-datePublished: '2016-03-08T02:53:38.105Z'
-dateModified: '2016-03-08T02:53:36.056Z'
+datePublished: '2016-03-08T02:56:29.750Z'
+dateModified: '2016-03-08T02:56:27.145Z'
 author: []
 related: []
 app_links:
